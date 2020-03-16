@@ -6,3 +6,4 @@ metadata:
   name: team-c
   annotations:
     MyNewAnnotation: theValue
+    MyOtherNewAnnotation: theOtherValue
