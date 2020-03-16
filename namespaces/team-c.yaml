@@ -4,3 +4,5 @@ metadata:
   labels:
     name: team-c
   name: team-c
+  annotations:
+    MyNewAnnotation: theValue
